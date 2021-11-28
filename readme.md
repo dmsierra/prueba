@@ -7,3 +7,5 @@
 - Commit previo al amend
 - amended
 
+- amend desde cli
+-
