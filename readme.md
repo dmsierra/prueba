@@ -9,3 +9,6 @@
 
 - amend desde cli
 -
+
+- amend con git console
+-
